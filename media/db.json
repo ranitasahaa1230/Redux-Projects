@@ -1,5 +1,22 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Silvia Balistreri",
+      "id": 2
+    },
+    {
+      "name": "Erik Wilderman",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Desiree Glover",
+      "id": 4
+    }
+  ],
   "albums": [],
   "photos": []
 }
