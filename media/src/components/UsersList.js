@@ -70,7 +70,6 @@ const UsersList = () => {
         ) : (
           <Button onClick={handleUserAdd}>+ Add User</Button>
         )}
-        {creatingUsersError && "Error Creating User..."}
       </div>
       {renderedUsers}
     </div>
