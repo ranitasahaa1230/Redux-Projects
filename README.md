@@ -1,2 +1,2 @@
-# Redux-Projects with Redux Toolkit 
+# Redux-Projects with RTK 
 # Redux Query with latest updates
