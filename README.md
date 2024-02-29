@@ -1,3 +1,3 @@
 # Redux-Projects with RTK 
-# Redux Query with latest updates
-# Redux thunk
+#Redux Query with latest updates
+#Redux thunk
