@@ -13,7 +13,7 @@ export const useThunk = (thunk) => {
       dispatch(thunk(arg))
         .unwrap()
         .catch((err) => setError(err))
-        .finally(() => setIsLoading(false));
+        .finally(() => setIsLoading(false));//calls after then and catch
     },
     [dispatch, thunk]
   );

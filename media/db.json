@@ -1,28 +1,20 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Moses Rippin",
+      "id": 1
     },
     {
-      "name": "Blake Kulas",
+      "name": "Emily Mertz",
       "id": 2
     },
     {
-      "name": "Lucy Howe",
+      "name": "Marlon Zemlak",
       "id": 3
     },
     {
-      "name": "Amanda Dickinson",
+      "name": "Sandra King",
       "id": 4
-    },
-    {
-      "name": "Duane Blick",
-      "id": 5
-    },
-    {
-      "name": "Leticia Grady Sr.",
-      "id": 6
     }
   ],
   "albums": [],
