@@ -15,26 +15,6 @@
   ],
   "albums": [
     {
-      "id": 2,
-      "title": "Hiking",
-      "userId": 9
-    },
-    {
-      "userId": 9,
-      "title": "Incredible Cotton Ball",
-      "id": 3
-    },
-    {
-      "userId": 9,
-      "title": "Elegant Wooden Hat",
-      "id": 4
-    },
-    {
-      "userId": 9,
-      "title": "Intelligent Rubber Pants",
-      "id": 5
-    },
-    {
       "userId": 10,
       "title": "Tasty Wooden Car",
       "id": 6
