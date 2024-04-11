@@ -25,21 +25,6 @@
       "id": 7
     },
     {
-      "userId": 11,
-      "title": "Intelligent Concrete Keyboard",
-      "id": 8
-    },
-    {
-      "userId": 11,
-      "title": "Electronic Soft Cheese",
-      "id": 9
-    },
-    {
-      "userId": 11,
-      "title": "Luxurious Metal Computer",
-      "id": 10
-    },
-    {
       "userId": 10,
       "title": "Fantastic Wooden Fish",
       "id": 11
@@ -68,7 +53,28 @@
       "userId": 11,
       "title": "Handmade Fresh Shirt",
       "id": 16
+    },
+    {
+      "userId": 9,
+      "title": "Rustic Metal Mouse",
+      "id": 17
+    },
+    {
+      "userId": 9,
+      "title": "Sleek Metal Sausages",
+      "id": 18
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36612",
+      "id": 1
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68768",
+      "id": 2
+    }
+  ]
 }
