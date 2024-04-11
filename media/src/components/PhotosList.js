@@ -26,14 +26,16 @@ const PhotosList = ({ album }) => {
 
   return (
     <div>
-      <div className="m-2 flex flex-row items-center justify-between">
-        <h3 className="text-lg font-bold">Photos In {album.title}</h3>
-        <Button loading={addPhotoResults.isLoading} onClick={handleAddPhoto}>
-          + Add Photo
-        </Button>
-      </div>
-      <div>{content}</div>
+    <div className="m-2 flex flex-row items-center justify-between">
+      <h3 className="text-lg font-bold">Photos In {album.title}</h3>
+      <Button loading={addPhotoResults.isLoading} onClick={handleAddPhoto}>
+        + Add Photo
+      </Button>
     </div>
+    <div className="mx-8 flex flex-row flex-wrap justify-center">
+      {content}
+    </div>
+  </div>
   );
 }
 export default PhotosList;
