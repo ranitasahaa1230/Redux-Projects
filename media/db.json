@@ -3,58 +3,13 @@
     {
       "name": "Dr. Opal Gorczany",
       "id": 9
-    },
+    }
   ],
   "albums": [
     {
       "userId": 10,
       "title": "Tasty Wooden Car",
       "id": 6
-    },
-    {
-      "userId": 10,
-      "title": "Luxurious Metal Hat",
-      "id": 7
-    },
-    {
-      "userId": 10,
-      "title": "Fantastic Wooden Fish",
-      "id": 11
-    },
-    {
-      "userId": 10,
-      "title": "Intelligent Bronze Pants",
-      "id": 12
-    },
-    {
-      "userId": 10,
-      "title": "Recycled Frozen Gloves",
-      "id": 13
-    },
-    {
-      "userId": 11,
-      "title": "Luxurious Steel Ball",
-      "id": 14
-    },
-    {
-      "userId": 11,
-      "title": "Recycled Rubber Chicken",
-      "id": 15
-    },
-    {
-      "userId": 11,
-      "title": "Handmade Fresh Shirt",
-      "id": 16
-    },
-    {
-      "userId": 9,
-      "title": "Rustic Metal Mouse",
-      "id": 17
-    },
-    {
-      "userId": 9,
-      "title": "Sleek Metal Sausages",
-      "id": 18
     }
   ],
   "photos": [
